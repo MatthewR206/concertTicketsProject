@@ -118,10 +118,13 @@ thead th {
 {
     color:black;
 }
+iframe{
+  text-align: center;
+}
 /*Footer design*/
 footer{
     text-align: center;
-    
+    position:bottom ;
     bottom:0px;
     margin: 0px;
     width: 100%;
